@@ -20,9 +20,9 @@ const Navigation = ({ account, setAccount }) => {
     return (
         <nav>
             <ul className='nav__links'>
-                <li><a href="https://github.com/rocketRexTech/Blockchain-Real-Estate-App" target='_blank' rel="noopener">Buy</a></li>
-                <li><a href="https://github.com/rocketRexTech/Blockchain-Real-Estate-App" target='_blank' rel="noopener">Rent</a></li>
-                <li><a href="https://github.com/rocketRexTech/Blockchain-Real-Estate-App" target='_blank' rel="noopener">Sell</a></li>
+                <li><a href="https://github.com/rocketRexTech/Blockchain-Real-Estate-App" target='_blank' rel="noreferrer">Buy</a></li>
+                <li><a href="https://github.com/rocketRexTech/Blockchain-Real-Estate-App" target='_blank' rel="noreferrer">Rent</a></li>
+                <li><a href="https://github.com/rocketRexTech/Blockchain-Real-Estate-App" target='_blank' rel="noreferrer">Sell</a></li>
             </ul>
 
             <div className='nav__brand'>
